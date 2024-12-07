@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "66303de2971c4025e50e33af",
+    "name": "Non Client",
+    "code": "NC",
+    "etat": "true",
+    "__v": 0
+  },
+  {
+    "_id": "66303e2887294d59979c1ebb",
+    "name": "Distribution",
+    "code": "D",
+    "etat": "true",
+    "__v": 0
+  },
+  {
+    "_id": "66303e3c9cec21ad8084fce8",
+    "name": "Grossiste",
+    "code": "G",
+    "etat": "true",
+    "__v": 0
+  }
+]
